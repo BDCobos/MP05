@@ -4,7 +4,7 @@
 
 El llenguatge Java va ser desenvolupar en el seus inicis por *Sun MicroSystems* dirigit per **James Gosling** l'any 1991, com una eina de programació per ser usada en un projecte de set-top-box en una petita operació anomenada the *Green Project*. El seu equip de desenvolupament va treballar per més de 18 mesos fins a aconseguir alliberar la primera versió estable.
 
-Llenguatge de programació **orientada a objectes (POO)**: el programador pot generar fragments de codi autònom, que poden interactuar amb altres objectes, oferint suport a altres tecnologies. **Potser compilat e interpretat.**
+Llenguatge de programació **orientada a objectes (POO)**: el programador pot generar fragments de codi autònom, que poden interactuar amb altres objectes, oferint suport a altres tecnologies. **Utilitza una màquina virtual**
 
 Com a curiositat, dir que no és clar l'origen del nom encara que es creu que es podria tractar de les inicials dels seus dissenyadors: James Gosling, Arthur Van Hoff, i Andy Bechtolsheim. La hipòtesi que té més força és la que Java deu el seu nom a un tipus de cafè disponible a la cafeteria propera; per això la icona de Java és una tassa de cafè calent.
 
@@ -58,6 +58,8 @@ public class HolaUser
 }
 ```
 
+**Falten ofertes de treball d'infojobs i codi de petició d'entrada d'usuari**
+
 #### Webgrafia
 
 https://ca.wikipedia.org/wiki/Java_(llenguatge_de_programaci%C3%B3)
@@ -78,11 +80,11 @@ Python va néixer a principis dels 90`s i, en un inici va ser desenvolupat com u
 És un llenguatge de programació versàtil multiplataforma i multiparadigma que es destaca pel codi llegible i net. Una de les raons del seu èxit és que compta amb una llicència de codi obert que permet la seva utilització a qualsevol escenari. Això fa que sigui un dels llenguatges diniciació de molts programadors. **Es un llenguatge interpretat.**
 
 
-Els seus **principis bàscis**:
+Els seus **principis bàsics**:
 - Es sencill i ràpid
 - Elegant i flexible
 - Ordenat i net
-- Permeteix estalviar molt de temps
+- Permete estalviar molt de temps
 - Portable
 
 #### Evolució (Versions)
@@ -119,6 +121,7 @@ https://geekflare.com/es/mejor-ide-de-python/
 ```
 print ("hello world")
 ```
+**Falten ofertes de treball d'infojobs, codi de petició d'entrada d'usuari i paradigma de programació**
 
 # JavaScript
 
@@ -126,7 +129,7 @@ print ("hello world")
 
 Es tracta d'un llenguatge de programació que permet fer accions de diversos graus de complexitat en llocs web sense necessitat de compilació. El fet que els mateixos navegadors llegeixin i assimilin el codi per efectuar les instruccions indicades per aquest, ha convertit JavaScript en un llenguatge de programació molt utilitzat i apreciat pels desenvolupadors.
 
-A dia d'avui, és el llenguatge en què es desenvolupa una pàgina web quan els mecanismes que es volen implantar tanquen un major nivell de dificultat dels que se solen plantejar sovint. Però, abans de continuar parlant de l'actualitat de JavaScript, farem un breu retorn al passat per entendre quines circumstàncies van donar origen a aquest llenguatge de programació. **És un llengutage compilat.**
+A dia d'avui, és el llenguatge en què es desenvolupa una pàgina web quan els mecanismes que es volen implantar tanquen un major nivell de dificultat dels que se solen plantejar sovint. Però, abans de continuar parlant de l'actualitat de JavaScript, farem un breu retorn al passat per entendre quines circumstàncies van donar origen a aquest llenguatge de programació. **És un llengutage interpretat.**
 
 - És un llenguatge molt sencill
 - És ràpid
@@ -177,6 +180,7 @@ https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=
   </body>
 </html>
 ````
+**Falten ofertes de treball d'infojobs i codi de petició d'entrada d'usuari així com paradigma de programació.**
 
 # SQL
 
@@ -252,3 +256,4 @@ Actividad Específica (100),
 idCargo INT
 )
 ```
+**Falten ofertes de treball d'infojobs i els dos codis demanats a més de paradigma de programació.**
