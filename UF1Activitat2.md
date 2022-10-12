@@ -84,16 +84,26 @@ import random
 
 while True:
     resultado = random.randint(1,6)
-    print("El dado giro y obtuvo: ", resultado
+    print("El dado giro y obtuvo: ", resultado)
     input("Presiona cualquier tecla para lanzar nuevamente.")
     
 ```     
 
 **Identifiqueu l'intèrpret del llenguatge (l’executable).**
 
+![image](https://user-images.githubusercontent.com/113586156/195454764-edfe29c6-bc82-4b66-b013-1e81622061e2.png)
+
+python3 d6.py
+
 **Descriviu com funciona l’intèrpret.**
 
+![image](https://user-images.githubusercontent.com/113586156/195454083-946b9c9a-a11d-4699-9c1a-881f153eca15.png)
+
+Executa el programa, fins que l'usuari vulgui. 
+
 **Mostreu les extensions dels fitxers de codi font.**
+
+![image](https://user-images.githubusercontent.com/113586156/195453970-57653db5-dd5b-48b9-b2af-19535abbe16f.png)
 
 **Expliqueu els avantatges d’utilitzar un llenguatge interpretat i els punts febles.** 
 
