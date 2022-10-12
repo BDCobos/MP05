@@ -187,7 +187,7 @@ javac d6.java i em crea la classe d6.class , per poder executar conjuntament.
 
 ![image](https://user-images.githubusercontent.com/113586156/195462718-60c5c284-8238-4433-9dd2-645e38394163.png)
 
-Executem la comanda java d6.java (perque ja està compilat), i fem uś fins que l'usuari vulgui.
+Executem la comanda java d6.java (perque ja està compilat), i fem ús fins que l'usuari vulgui.
 
 **Expliqueu els avantatges d’utilitzar un llenguatge de MV i els punts febles.**
 
