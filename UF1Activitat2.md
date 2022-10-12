@@ -84,7 +84,7 @@ https://ca.wikipedia.org/wiki/GNU_Compiler_Collection
 
 https://ca.myservername.com/top-22-online-c-compiler-tools-best-c-ide
 
-
+=========================================================================================================================================================
 
 ### Per al llenguatge interpretat: Python
 
@@ -119,15 +119,23 @@ Executa el programa, fins que l'usuari vulgui.
 
 **Expliqueu els avantatges d’utilitzar un llenguatge interpretat i els punts febles.** 
 
+Avantatges: no necessita ser compilat, es sencill i rápid, flexible.
 
+Punts febles: l'execució d'aquests llenguatges és més lenta a diferència dels llenguatges compilats, són difícils de depurar.
 
 **Busqueu 3 IDEs de desenvolupament pel llenguatge.**
+
+PyCharm
+KDevelop
+SlickEdit
 
 **Webgrafia**
 
 http://copitosystem.com/es/python-dice-simulator/
 
 https://ajaxhispano.com/ask/que-uso-en-linux-para-hacer-ejecutable-un-programa-python-25213/
+
+https://ca.eyewated.com/diferencia-entre-llenguatges-compilats-i-interpretats/
 
 
 ### Per al llenguatge de MV: Java
