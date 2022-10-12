@@ -78,6 +78,17 @@ https://ca.wikipedia.org/wiki/GNU_Compiler_Collection
 
 **Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament escriureu el programa en un fitxer de text que sigui el codi font, el codi font l’adjunteu dins el document.**
 
+```
+
+import random
+
+while True:
+    resultado = random.randint(1,6)
+    print("El dado giro y obtuvo: ", resultado
+    input("Presiona cualquier tecla para lanzar nuevamente.")
+    
+```     
+
 **Identifiqueu l'intèrpret del llenguatge (l’executable).**
 
 **Descriviu com funciona l’intèrpret.**
@@ -89,6 +100,10 @@ https://ca.wikipedia.org/wiki/GNU_Compiler_Collection
 **Busqueu 3 IDEs de desenvolupament pel llenguatge.**
 
 **Webgrafia**
+
+http://copitosystem.com/es/python-dice-simulator/
+
+https://ajaxhispano.com/ask/que-uso-en-linux-para-hacer-ejecutable-un-programa-python-25213/
 
 
 ### Per al llenguatge de MV: Java
