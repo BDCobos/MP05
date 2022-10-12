@@ -223,5 +223,8 @@ https://www.softzone.es/programas/lenguajes/mejores-ide-programar/
 
 https://www.java.com/es/download/help/enable_panel.html
 
+https://aprendiendoaprogramar.es/blog/ventajas-y-desventajas-de-la-maquina-virtual/
+
+https://www.adslzone.net/listas/mejores-programas/maquinas-virtuales/
 
 
