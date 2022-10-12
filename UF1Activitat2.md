@@ -62,7 +62,15 @@ Utilizem les comandes g++ -o d6 d6.cpp (d6.cpp --> es el nostre codi objecte)(d6
 
 **Expliqueu els avantatges d’utilitzar un llenguatge compilat i els punts febles.**
 
+Avantatge: conté un rang de dades bastant ampli.
+
+Punts febles: que necessita molts de recursos per executar-se.
+
 **Busqueu 3 IDEs de desenvolupament pel llenguatge.**
+
+Microsft Visual C++
+Borland C++
+IDE Eclipse
 
 **Webgrafia**
 
@@ -73,6 +81,10 @@ https://www.delftstack.com/es/howto/cpp/cpp-dice-roll/
 https://www.onlinegdb.com/fork/H1TLQdVSU
 
 https://ca.wikipedia.org/wiki/GNU_Compiler_Collection
+
+https://ca.myservername.com/top-22-online-c-compiler-tools-best-c-ide
+
+
 
 ### Per al llenguatge interpretat: Python
 
@@ -106,6 +118,8 @@ Executa el programa, fins que l'usuari vulgui.
 ![image](https://user-images.githubusercontent.com/113586156/195453970-57653db5-dd5b-48b9-b2af-19535abbe16f.png)
 
 **Expliqueu els avantatges d’utilitzar un llenguatge interpretat i els punts febles.** 
+
+
 
 **Busqueu 3 IDEs de desenvolupament pel llenguatge.**
 
