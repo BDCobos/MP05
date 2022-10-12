@@ -41,7 +41,6 @@ Instalará el **compilador GCC** altres eines de desenvolupament.
 
 **Identifiqueu el compilador real que utilitzeu (nom de l’executable) i la comanda per utilitzar-lo per passar de codi font a codi objecte.** 
 
-
 ![image](https://user-images.githubusercontent.com/113586156/195361555-0333f24b-6b38-4377-97f0-b8402b4f9d2c.png)
 
 **Descriviu com passar de codi font a codi objecte.** 
@@ -69,7 +68,9 @@ Punts febles: que necessita molts de recursos per executar-se.
 **Busqueu 3 IDEs de desenvolupament pel llenguatge.**
 
 Microsft Visual C++
+
 Borland C++
+
 IDE Eclipse
 
 **Webgrafia**
@@ -84,7 +85,7 @@ https://ca.wikipedia.org/wiki/GNU_Compiler_Collection
 
 https://ca.myservername.com/top-22-online-c-compiler-tools-best-c-ide
 
-=========================================================================================================================================================
+============================================================================================================
 
 ### Per al llenguatge interpretat: Python
 
@@ -126,7 +127,9 @@ Punts febles: l'execució d'aquests llenguatges és més lenta a diferència del
 **Busqueu 3 IDEs de desenvolupament pel llenguatge.**
 
 PyCharm
+
 KDevelop
+
 SlickEdit
 
 **Webgrafia**
@@ -138,21 +141,87 @@ https://ajaxhispano.com/ask/que-uso-en-linux-para-hacer-ejecutable-un-programa-p
 https://ca.eyewated.com/diferencia-entre-llenguatges-compilats-i-interpretats/
 
 
+============================================================================================================
+
 ### Per al llenguatge de MV: Java
 
 **Utilitzant la línia de comandes, sense utilitzar un IDE de desenvolupament escriureu el programa en un fitxer de text que sigui el codi font, el codi font l’adjunteu dins el document.**
 
+```
+
+public class Dado6Caras {
+   public static void main(String[] args) {
+      /* Math.random() * 6 + 1
+       int ValorDado = Math.floor(Math.random()*6+1);
+       int ValorEntero = Math.floor(Math.random()*(N-M+1)+M);*/
+
+       Random r = new Random();
+       int d6 = r.nextInt(6) + 1;
+       System.out.println(d6);
+   }
+}
+
+```
+
+![image](https://user-images.githubusercontent.com/113586156/195460161-34a51288-0730-418d-9928-3312145b39a2.png)
+
+![image](https://user-images.githubusercontent.com/113586156/195460259-395492a3-938e-4247-833c-fab1531162b4.png)
+
+Realitzem l'instal·lació del compilador de Java.
+
 **Identifiqueu el compilador real (nom d’executable) que utilitzeu i la comanda per utilitzar-lo per passar de codi font a ByteCode.**
+
+d6.java ----> nano, guardem el codi font i el guardem .java
 
 **Descriviu com passar de codi font a ByteCode.** 
 
+![image](https://user-images.githubusercontent.com/113586156/195462403-bac5ddc7-e201-49f7-a705-f4e758d928dc.png)
+
+javac d6.java i em crea la classe d6.class , per poder executar conjuntament.
+
 **Mostreu les extensions dels fitxers de codi font i ByteCode.**
+
+![image](https://user-images.githubusercontent.com/113586156/195462677-9c8f5581-7dff-4742-9d89-b5b35490ffac.png)
 
 **Descriviu com executar el programa.**
 
+![image](https://user-images.githubusercontent.com/113586156/195462718-60c5c284-8238-4433-9dd2-645e38394163.png)
+
+Executem la comanda java d6.java (perque ja està compilat), i fem uś fins que l'usuari vulgui.
+
 **Expliqueu els avantatges d’utilitzar un llenguatge de MV i els punts febles.**
+
+Pros:
+
+L’intèrpret sol estar en més d’un sistema operatiu així que no cal adaptar el seu codi a una plataforma en concret.
+
+El programa es pot portar en diferents plataformes.
+
+El rendiment és superior respecte als llenguatges compilats.
+
+Contres:
+
+Velocitat de processament més lenta respecte als llenguatges compilats.
+
+El codi font pot ser modificat per qualsevol persona que tingui accés a ell.
+
+Per a executar el codi sempre fa falta un intèrpret.
 
 **Busqueu 3 IDEs de desenvolupament pel llenguatge.**
 
+Visual Studio
+
+Eclipse
+
+Intellij IDEA
+
 **Webgrafia**
+
+https://open-bootcamp.com/aprender-programar/lenguaje-interpretado 
+
+https://www.softzone.es/programas/lenguajes/mejores-ide-programar/
+
+https://www.java.com/es/download/help/enable_panel.html
+
+
 
