@@ -36,13 +36,14 @@ Assegurar que el programari estigui disponible per als usuaris finals, ajustar e
 
 **Punts Forts i Febles:**
 
-- Punts Forts:
+Punts Forts:
+
 - Bona optimització i metodologia viable per a les empreses.
 - Molt útil per a definir diferents rols en projectes.
 - Manteniment senzill i modificacions locals.
 - Els rols es poden reutilitzar en futurs projectes.
 
-- Punts Febles:
+Punts Febles:
 
 - Es complex.
 - Massa costos per a projectes petits.
