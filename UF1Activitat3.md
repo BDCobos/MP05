@@ -1,4 +1,9 @@
-Persones que intervenen:
+# Activitat 3 - Recerca models de desenvolupament - RUP
+
+## Grup: Javier Mouriño y Byron Cobos
+
+### Quines són les persones que intervenen:
+
 
 - Patrocinadors o involucrats.
 - Programadors.
@@ -51,4 +56,8 @@ Punts Forts i Febles:
 - Pesa molt.
 
 Per a quins projectes es més adequat?
+
+
+
+
 
