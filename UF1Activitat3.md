@@ -16,7 +16,7 @@ El RUP está basat en 5 principis bàsics clau que son:
 
 **1.** Adaptar el procés: aquest s'adaptará a les característiques pròpies del projecte u organització.
 
-**2.** Equilibrar prioritats: en aques punt s'ha de trobar un equilibri que satisfaci els desitjos de tothom.
+**2.** Equilibrar prioritats: en aquest punt s'ha de trobar un equilibri que satisfaci els desitjos de tothom.
 
 ![image](https://user-images.githubusercontent.com/113586156/200660209-37125070-25fa-4556-9bcc-b87d916753cf.png)
 
