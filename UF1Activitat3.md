@@ -10,6 +10,15 @@
 
 **Funcionament**
 
+El RUP está basat en 5 principis bàsics clau que son:
+
+Adaptar el procés: aquest s'adaptará a les característiques pròpies del projecte u organització.
+
+Equilibrar prioritats: en aques punt s'ha de trobar un equilibri que satisfaci els desitjos de tothom.
+
+![image](https://user-images.githubusercontent.com/113586156/200660209-37125070-25fa-4556-9bcc-b87d916753cf.png)
+
+
 
 
 **Fases:**
@@ -53,5 +62,13 @@ Punts Febles:
 
 
 
+**Webgrafia**
 
+https://unidad2ingesoftware.blogspot.com/2019/10/ventajas-y-desventajas-del-modelo-rup.html
+
+https://es.wikipedia.org/wiki/Proceso_Unificado_de_Rational#Fase_de_Inicio
+
+https://unidad2ingesoftware.blogspot.com/2019/10/ventajas-y-desventajas-del-modelo-rup.html
+
+https://www.programaenlinea.net/proceso-unificado-rational-rup/
 
