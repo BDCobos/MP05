@@ -2,6 +2,8 @@
 
 ## Grup: Javier Mouriño y Byron Cobos
 
+![meto](https://user-images.githubusercontent.com/113586156/200683599-74ebb060-6391-4b37-a06b-5715c08ac924.png)
+
 **Quines són les persones que intervenen:**
 
 - Patrocinadors o involucrats.
