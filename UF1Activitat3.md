@@ -44,7 +44,21 @@ Assegurar que el programari estigui disponible per als usuaris finals, ajustar e
 
 **Producte de cada fase**
 
+- Fase d’inici:
 
+Definir les idees i els objectius que es volen aconseguir.
+
+- Fase d’elaboració:
+
+Prototips i maquetació de les idees mencionades a la fase d'inici.
+
+- Fase de construcció:
+
+Programa en qüestió, aclarint i realitzant millores. 
+
+- Fase de Transició:
+
+Assegurar-se de que estigui preparat el producte final que serà el programa demanat a la fase inicial , i que compleixi amb el que és demanava.
 
 **Punts Forts i Febles:**
 
@@ -63,6 +77,7 @@ Punts Febles:
 
 **Per a quins projectes es més adequat?**
 
+Análisis, implementació y documentació de sistemes orientats a objectes.
 
 
 **Webgrafia**
