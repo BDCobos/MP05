@@ -12,14 +12,17 @@
 
 El RUP está basat en 5 principis bàsics clau que son:
 
-Adaptar el procés: aquest s'adaptará a les característiques pròpies del projecte u organització.
+**1.** Adaptar el procés: aquest s'adaptará a les característiques pròpies del projecte u organització.
 
-Equilibrar prioritats: en aques punt s'ha de trobar un equilibri que satisfaci els desitjos de tothom.
+**2.** Equilibrar prioritats: en aques punt s'ha de trobar un equilibri que satisfaci els desitjos de tothom.
 
 ![image](https://user-images.githubusercontent.com/113586156/200660209-37125070-25fa-4556-9bcc-b87d916753cf.png)
 
+**3.** Demostrar valor interativament: Els projectes es lliuren en etapes iterades. A cada iteració s'analitza l'opinió dels inversors, l'estabilitat i la qualitat del producte, i es refina la direcció del projecte així com també els riscos involucrats.
 
+**4.** Col·laboració entre equips: El desenvolupament de programari no ho fa una única persona sinó múltiples equips. Hi ha d'haver una comunicació fluida per coordinar requeriments, desenvolupament, avaluacions, plans, resultats.
 
+**5.** Elevar el nivell d'abstracció: Un nivell d'abstracció alt també permet discussions sobre diversos nivells i solucions arquitectòniques. Aquestes es poden acompanyar per les representacions visuals de larquitectura, per exemple amb el llenguatge UML (Llenguatge Unificat de Modelat)
 
 **Fases:**
 
