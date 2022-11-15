@@ -38,18 +38,39 @@
 
 Característiques:
 
-Té alguna característica única?
+- Perspectives, 
 
+- Editors i vistes
+
+- Gestió de projectes
+
+- Depurador de codi
+
+- Extensa col·lecció de plug-ins
+
+Té alguna característica única?
 
 ## NetBeans
 
-Sistemes operatius disponibles: 
+![image](https://user-images.githubusercontent.com/113586156/202035322-dd109f0c-2c05-45c9-b8bb-11ed464d8afe.png)
+
+Sistemes operatius disponibles: Mac OS, Windows, Linux i Solaris
 
 Instruccions d'instal·lació:
 
 Característiques:
 
+- De codi lliure
+
+- Multiplataforma
+
+- Maneig automàtic de la memòria
+
+- Multillenguatge
+
 Té alguna característica única?
+
+Proporciona una llibreria visual on aconseguir els diferents widgets i permet gestionar l'emmagatzematge de les dades d'una manera òptima.
 
 ## IntelliJ Idea
 
@@ -88,3 +109,7 @@ https://ifgeekthen.nttdata.com/es/los-ide-mas-usados-en-programacion-java
 https://www.solvetic.com/topic/6687-como-ver-y-saber-version-java-en-linux/
 
 https://instatecno.com/instalar-eclipse-linux-espanol/
+
+https://blog.educacionit.com/2014/01/16/eclipse-ide-principales-carateristicas/
+
+
