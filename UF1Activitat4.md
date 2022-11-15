@@ -104,6 +104,8 @@ Proporciona una llibreria visual on aconseguir els diferents widgets i permet ge
 
 ## jGRASP
 
+![image](https://user-images.githubusercontent.com/113586156/202040586-06debc2e-8bcb-4620-9f97-98e3a4adbbc6.png)
+
 **Sistemes operatius disponibles:**
 
 **Instruccions d'instal·lació:**
