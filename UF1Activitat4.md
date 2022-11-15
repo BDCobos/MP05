@@ -18,7 +18,7 @@
 
 ![image](https://user-images.githubusercontent.com/113586156/202014766-747d2977-ee20-4aea-8308-8bf3ee88d248.png)
 
-**Sistemes operatius disponibles:** Windows, Mac,Linux
+**Sistemes operatius disponibles:** Windows, Mac, Linux
 
 **Instruccions d'instal·lació:**
 
