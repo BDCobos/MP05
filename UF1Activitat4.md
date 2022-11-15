@@ -36,7 +36,7 @@
 
 - Finalment ja el tindriem el accés al nostre inici
 
-Característiques:
+**Característiques:**
 
 - Perspectives, 
 
@@ -48,17 +48,25 @@ Característiques:
 
 - Extensa col·lecció de plug-ins
 
-Té alguna característica única?
+**Té alguna característica única?**
 
 ## NetBeans
 
 ![image](https://user-images.githubusercontent.com/113586156/202035322-dd109f0c-2c05-45c9-b8bb-11ed464d8afe.png)
 
-Sistemes operatius disponibles: Mac OS, Windows, Linux i Solaris
+**Sistemes operatius disponibles:** Mac OS, Windows, Linux i Solaris
 
-Instruccions d'instal·lació:
+**Instruccions d'instal·lació:**
 
-Característiques:
+- Afegir el repositori universe de Ubuntu ---> sudo add-apt-repository "deb http://archive.ubuntu.com/ubuntu focal universe"
+
+- Actualitzar els paquets ---> sudo apt update
+
+- Instal·lar Netbeans con apt ---> sudo apt install netbeans
+
+- Al finalitzar ja podem utilitzar Netbeans per treballar amb Java
+
+**Característiques:**
 
 - De codi lliure
 
@@ -68,39 +76,40 @@ Característiques:
 
 - Multillenguatge
 
-Té alguna característica única?
+**Té alguna característica única?**
 
 Proporciona una llibreria visual on aconseguir els diferents widgets i permet gestionar l'emmagatzematge de les dades d'una manera òptima.
 
 ## IntelliJ Idea
 
-Sistemes operatius disponibles: 
+**Sistemes operatius disponibles:**
 
-Instruccions d'instal·lació:
+**Instruccions d'instal·lació:**
 
-Característiques:
+**Característiques:**
 
-Té alguna característica única?
+**Té alguna característica única?**
 
 ## jGRASP
 
-Sistemes operatius disponibles: 
+**Sistemes operatius disponibles:**
 
-Instruccions d'instal·lació:
+**Instruccions d'instal·lació:**
 
-Característiques:
+**Característiques:**
 
-Té alguna característica única?
+**Té alguna característica única?**
 
 ## Codenvy
 
-Sistemes operatius disponibles: 
+**Sistemes operatius disponibles:**
 
-Instruccions d'instal·lació:
+**Instruccions d'instal·lació:**
 
-Característiques:
+**Característiques:**
 
-Té alguna característica única?
+**Té alguna característica única?**
+
 
 ## Webgrafia
 
@@ -112,4 +121,4 @@ https://instatecno.com/instalar-eclipse-linux-espanol/
 
 https://blog.educacionit.com/2014/01/16/eclipse-ide-principales-carateristicas/
 
-
+https://immune.institute/blog/que-es-netbeans/
