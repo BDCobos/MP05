@@ -106,13 +106,35 @@ Proporciona una llibreria visual on aconseguir els diferents widgets i permet ge
 
 ![image](https://user-images.githubusercontent.com/113586156/202040586-06debc2e-8bcb-4620-9f97-98e3a4adbbc6.png)
 
-**Sistemes operatius disponibles:**
+**Sistemes operatius disponibles:** Windows, Mac, Linux
 
 **Instruccions d'instal·lació:**
 
+- Instal·lem el paquet desde la pàgina oficial https://spider.eng.auburn.edu/user-cgi/grasp/grasp.pl?;dl=download_jgrasp.html
+
+- Descomprimim la descarga a la carpeta que vulguem que estigui el nostre jGrasp
+
+- Anirem al directori jgrasp/bin
+
+- Creem un enllaç per consola ---> amb la comndanda ln -s jgrasp
+
+- Fem un move d'aquesta carpeta al directori ---> sudo mv Enlace\ hacia\ jgrasp /usr/bin
+
+- Finalment ja el tindriem
+
 **Característiques:**
 
+- Aquesta eina ofereix un depurador gràfic
+
+- El codi font es pot plegar fàcilment segons l'estructura del CSD (Diagrama d'estructura de control)
+
+- Proporciona coloració basada en sintaxi
+
+- jGRASP té icones i menús per compilar, executar i depurar qualsevol programa
+
 **Té alguna característica única?**
+
+És molt lleuger.
 
 ## Codenvy
 
@@ -140,3 +162,9 @@ https://immune.institute/blog/que-es-netbeans/
 https://howtoforge.es/como-instalar-netbeans-ide-en-ubuntu-20-04/
 
 https://ubunlog.com/intellij-idea-ide-java/
+
+http://compilandodesdecero.blogspot.com/2013/04/instalar-jgrasp-en-ubuntu.html
+
+https://spider.eng.auburn.edu/user-cgi/grasp/grasp.pl?;dl=download_jgrasp.html
+
+https://ciberninjas.com/java-editores/#:~:text=Java%20Virtual%20Machine).-,Caracter%C3%ADsticas%20de%20jGRASP,ejecutar%20y%20depurar%20cualquier%20programa.
