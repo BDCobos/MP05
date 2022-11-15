@@ -82,11 +82,23 @@ Proporciona una llibreria visual on aconseguir els diferents widgets i permet ge
 
 ## IntelliJ Idea
 
-**Sistemes operatius disponibles:**
+![image](https://user-images.githubusercontent.com/113586156/202038284-d4e8f9c8-aec9-49a4-95e5-6d175b83a4ee.png)
 
-**Instruccions d'instal·lació:**
+**Sistemes operatius disponibles:** Windows, Mac OS, Linux
+
+**Instruccions d'instal·lació:** 	
+
+- Amb la comanda ---> sudo apt-add-repository ppa:mmk2410/intellij-idea && sudo apt update && sudo apt install intellij-idea-ultimate
 
 **Característiques:**
+
+- Inici fácil
+
+- Accessos directes de teclat per a tot
+
+- Accessibilitat
+
+- Conté complements
 
 **Té alguna característica única?**
 
@@ -122,3 +134,7 @@ https://instatecno.com/instalar-eclipse-linux-espanol/
 https://blog.educacionit.com/2014/01/16/eclipse-ide-principales-carateristicas/
 
 https://immune.institute/blog/que-es-netbeans/
+
+https://howtoforge.es/como-instalar-netbeans-ide-en-ubuntu-20-04/
+
+https://ubunlog.com/intellij-idea-ide-java/
