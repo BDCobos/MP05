@@ -38,7 +38,7 @@
 
 **Característiques:**
 
-- Perspectives, 
+- Perspectives
 
 - Editors i vistes
 
