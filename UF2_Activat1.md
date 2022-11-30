@@ -30,15 +30,15 @@ CC = 8 - 6 + 2 = 4
 
   - **Diagrama:**
 
-![image](https://user-images.githubusercontent.com/113586156/204750089-b4a96694-6178-42c6-bcbb-df27f4c4a87d.png)
+![image](https://user-images.githubusercontent.com/113586156/204752071-57905cb1-101a-4d00-9e1d-ad248651dceb.png)
 
   - **Resultat CC:**
 
-Fórmula --> núm de sentències +1 
+**Fórmula --> núm de sentències + 1** 
 
 CC = 1 + 1 = 2 
 
-3. Dibuixa el diagrama de flux representat per aquest codi i després calcula la seva CC:
+**3. Dibuixa el diagrama de flux representat per aquest codi i després calcula la seva CC:**
 
 ```
 public class proves {
@@ -62,9 +62,14 @@ public class proves {
 ```
 
   - **Diagrama:**
+
+![image](https://user-images.githubusercontent.com/113586156/204755143-222fe3bb-b3c3-41f9-926a-d192cdfa0b7a.png)
+
   - **Resultat CC:**
 
-4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:
+CC = 4 + 1 = 5 
+
+**4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:**
 
 ```
     public static Boolean llumsEncesos(int hora) {
@@ -79,7 +84,7 @@ public class proves {
   - **Resultat CC:**
   - **Resultat proves camins:**
 
-5. Investiga sobre les proves de caixa negra:
+**5. Investiga sobre les proves de caixa negra:**
 
   - Què són?
   - Quina diferència principal tenen sobre les de caixa blanca?
