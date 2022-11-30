@@ -63,11 +63,23 @@ public class proves {
 
   - **Diagrama:**
 
-![image](https://user-images.githubusercontent.com/113586156/204755143-222fe3bb-b3c3-41f9-926a-d192cdfa0b7a.png)
+![image](https://user-images.githubusercontent.com/113586156/204762599-f887fafe-5023-4d61-ac90-e936e737fe36.png)
 
   - **Resultat CC:**
 
 CC = 4 + 1 = 5 
+
+  - **Resultat proves camins:**
+
+Prova 1 --> int res = -2 -- res < 0 -- output = roba d'esquiar
+
+Prova 2 --> int res = 5  -- res < 10 -- output = roba de muntanya 
+
+Prova 3 --> int res = 12 -- res < 20 -- output = roba d'hivern
+
+Prova 4 --> int res = 25 -- res < 30 -- output = roba d'estiu
+
+Prova 5 --> int res = 35 -- res > 30 -- output = roba
 
 **4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:**
 
@@ -81,10 +93,27 @@ CC = 4 + 1 = 5
     }
 ```
   - **Diagrama:**
+
+![image](https://user-images.githubusercontent.com/113586156/204760619-9cfac567-5545-49ba-bfac-8fd6715505c3.png)
+
   - **Resultat CC:**
+
+CC = 1 + 1 = 2
+
   - **Resultat proves camins:**
+
+Prova 1 --> int hora = 12 -- hora <= 8 || hora >= 20 -- output = false (apagada)
+
+Prova 2 --> int hora = 6 -- hora <= 8 || hora >= 20 -- output = true (encesa)
 
 **5. Investiga sobre les proves de caixa negra:**
 
   - Què són?
+
+Són un tipus de proves de programari que es basen en la creació dels casos de proves analitzant l'especificació del component, ignorant el funcionament intern del sistema o component, centrant-se en les sortides generades basant-se en unes entrades i condicions d'execució concretes.
+
+![image](https://user-images.githubusercontent.com/113586156/204763955-93ffe7be-2170-4b1c-8e42-1a9929de444f.png)
+
   - Quina diferència principal tenen sobre les de caixa blanca?
+
+La diferència principal entre caixa blanca i negra, es què per realitzar una prova de caixa blanca necessitem conèixer el codi que estem testejant i per realitzar una prova de caixa negra ignora el funcionament intern del sistema o component.
