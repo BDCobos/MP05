@@ -29,7 +29,14 @@ CC = 8 - 6 + 2 = 4
   - ![image](https://user-images.githubusercontent.com/110727546/204615125-363e5e6c-173b-4ec0-8c0b-cb97985ade06.png)
 
   - **Diagrama:**
+
+![image](https://user-images.githubusercontent.com/113586156/204750089-b4a96694-6178-42c6-bcbb-df27f4c4a87d.png)
+
   - **Resultat CC:**
+
+Fórmula --> núm de sentències +1 
+
+CC = 1 + 1 = 2 
 
 3. Dibuixa el diagrama de flux representat per aquest codi i després calcula la seva CC:
 
